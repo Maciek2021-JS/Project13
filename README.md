@@ -1,3 +1,14 @@
+# Project13
+Text adding
+
+## description
+The project presents an application that displays the text over time
+
+### technologies
++ React 
++ JavaScript 
++ HTML
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
